@@ -6,7 +6,7 @@
 Bağlantı kurarak, teknoloji dünyasındaki değişimleri paylaşan ve işbirliği yapmaktan keyif alan herkesle tanışmayı umuyorum 💜.
 </h4>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/furkansagsoyu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.https://www.linkedin.com/in/furkansagsoyu/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/furkansagsoyu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.https://www.linkedin.com/in/furkansagsoyu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Öğrendiğim diller:</h3>
