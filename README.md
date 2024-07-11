@@ -1,5 +1,5 @@
 <h2 align="center">Merhaba 👋, Ben Furkan 👨🏻‍💻</h2>
-<img src="https://raw.githubusercontent.com/frknsgsy/frknsgsy/main/github_banner.png">
+<img src="https://raw.githubusercontent.com/frkNynchr/frkNynchr/main/github_banner.png">
 <h4>Bilgisayar mühendisliği öğrencisiyim. Şu anda Gaziosmanpaşa Üniversitesi 1.sınıfta eğitim görüyorum. Java, C#, HTML, CSS, JavaScript ve Python dillerinin basit temelini bitirdim.Yakın gelecekte, bu alanlarda uzmanlaşarak sektöre adım atmayı ve kariyerime bilgisayar mühendisi olarak başlamayı hedefliyorum. Teknolojideki yenilikleri takip etmek ve kendimi sürekli geliştirmek için çaba göstermeye devam edeceğim. İlgili her türlü fırsatı değerlendirmek ve sektördeki deneyimli profesyonellerle iletişim kurmak için sabırsızlanıyorum.
 </h4>
 <h4>
