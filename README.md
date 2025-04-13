@@ -12,3 +12,7 @@ Bağlantı kurarak, teknoloji dünyasındaki değişimleri paylaşan ve işbirli
 <p align="left">
 <a href="https://www.linkedin.com/in/furkansagsoyu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.https://www.linkedin.com/in/furkansagsoyu/" height="30" width="40" /></a>
 </p>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frknynchr&show_icons=true&locale=en&layout=compact" alt="frknynchr" /></p>
